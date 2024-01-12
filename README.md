@@ -1,4 +1,5 @@
 Kaive Bayes
+by Rondahey
 --------------
 
 Sorry about the ridiculous name, this is a very simple Naive Bayes classifier written in Kotlin.
